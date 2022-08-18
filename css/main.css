@@ -478,7 +478,7 @@ body {
   flex-wrap: wrap;
 }
 
-.gallery-list-overlay {
+.gallery-list__overlay {
   position: relative;
 }
 
